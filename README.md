@@ -1,1 +1,1 @@
-# UniAI
+# University projects
