@@ -12,4 +12,6 @@ https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 *When I have done this project?* This project was done in the second year, first semester, of the bachelor in Artificial Intelligence. This is the first project I have completed
 
-## 
+## Fuzzy systems project: Implement the softpy library to utilize the horizontal representation
+**GOAL**
+The intent of this project is to implement the horizontal representation of a fuzzy set, such that when given a point you get the corresponding membership value found through the alpha cut.
