@@ -13,9 +13,9 @@ https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 *When I have done this project?* This project was done in the second year, first semester, of the bachelor in Artificial Intelligence. This is the first project I have completed
 
 ## Fuzzy systems project: Implement the softpy library to utilize the horizontal representation
-**GOAL/**
+**GOAL /n**
 The intent of this project is to implement the horizontal representation of a fuzzy set, such that when given a point you get the corresponding membership value found through the alpha cut.
 
 ## Computer programming: Create an ecosystem with Python
-**GOAL/**
+**GOAL /n**
 The intent of the project is to create an ecosystem that is able to simulate the behaviour of three species (two animals and one species of plant) within the same world and shows how they interact. One day is divided i multiple phases that determine the behaviour of the animals and of the plants.
