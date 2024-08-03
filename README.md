@@ -19,3 +19,4 @@ The intent of this project is to implement the horizontal representation of a fu
 ## Computer programming: Create an ecosystem with Python
 **GOAL**: 
 The intent of the project is to create an ecosystem that is able to simulate the behaviour of three species (two animals and one species of plant) within the same world and shows how they interact. One day is divided i multiple phases that determine the behaviour of the animals and of the plants.
+The project was done in a group of two.
