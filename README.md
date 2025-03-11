@@ -33,6 +33,6 @@ The project was based on the creation of a Transformer that could classify text 
 **Goal**:
 Investigate the human factors involved in the usage of TikTok and the possible changes that could be done to the interface to have a more mindful interaction with the app
 
-## Project investigating the interaction of users with chatGPT in the academic context
+## Project investigating AI relevance in academic tasks
 **Goal**:
 Development of a SWOT analysis, with the help of chatGPT and Claude as mentors, on the help of chatGPT to do an academic task
