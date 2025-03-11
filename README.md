@@ -20,3 +20,19 @@ The intent of this project is to implement the horizontal representation of a fu
 **GOAL**: 
 The intent of the project is to create an ecosystem that is able to simulate the behaviour of three species (two animals and one species of plant) within the same world and shows how they interact. One day is divided i multiple phases that determine the behaviour of the animals and of the plants.
 The project was done in a group of two.
+
+## Information retrieval and recommender system project
+**GOAL**:
+The goal of the project is to develop a search engine capable of retrieving relevant answers to user queries from a community Question Answering dataset. The answers should integrate personalization to tailor search outcomes based on the user's historical activity and contextual features, as well as the recommender system's scores.
+
+## Project of Natural Language Processing: classification of text
+**Goal**:
+The project was based on the creation of a Transformer that could classify text into different categories (multiclass classification)
+
+## Project about the analysis of the effect of TikTok on users
+**Goal**:
+Investigate the human factors involved in the usage of TikTok and the possible changes that could be done to the interface to have a more mindful interaction with the app
+
+## Project investigating the interaction of users with chatGPT in the academic context
+**Goal**:
+Development of a SWOT analysis, with the help of chatGPT and Claude as mentors, on the help of chatGPT to do an academic task
