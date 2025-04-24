@@ -36,3 +36,7 @@ Investigate the human factors involved in the usage of TikTok and the possible c
 ## Project investigating AI relevance in academic tasks
 **Goal**:
 Development of a SWOT analysis, with the help of chatGPT and Claude as mentors, on the help of chatGPT to do an academic task
+
+## Project on segmenting a brain tumor
+**Goal**: 
+Exploiting fuzzy logic and genetic algorithms to do a tumor segmentation in the brain
