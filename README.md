@@ -40,3 +40,7 @@ Development of a SWOT analysis, with the help of chatGPT and Claude as mentors, 
 ## Project on segmenting a brain tumor
 **Goal**: 
 Exploiting fuzzy logic and genetic algorithms to do a tumor segmentation in the brain
+
+## Project on breast cancer classification using MLP
+**Goal**:
+The goal of the project is to create a Neural Network for breast Cancer Classification, more precisely, we want to implement a Multilayer Perceptron.
