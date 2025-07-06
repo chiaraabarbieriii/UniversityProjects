@@ -44,3 +44,7 @@ Exploiting fuzzy logic and genetic algorithms to do a tumor segmentation in the 
 ## Project on breast cancer classification using MLP
 **Goal**:
 The goal of the project is to create a Neural Network for breast Cancer Classification, more precisely, we want to implement a Multilayer Perceptron.
+
+## Churn prediction model
+**Goal**:
+During the project a churn prediction model was created, with the aim of predicting which customers are at risk of churning (Assign a probability of churn to each customer)
