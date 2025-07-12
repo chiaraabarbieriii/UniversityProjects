@@ -49,6 +49,6 @@ The goal of the project is to create a Neural Network for breast Cancer Classifi
 **Goal**:
 During the project a churn prediction model was created, with the aim of predicting which customers are at risk of churning (Assign a probability of churn to each customer)
 
-## Modeling epileptic patient using TVB platform
+## Modelling epileptic patient using TVB platform
 **Goal**:
 For this project we have used The Virtual Brain platform to simulate the brain of an epileptic brain, then we applied surgical resection on certain brain regions and have seen how the epileptic attacks reduced.
