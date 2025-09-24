@@ -52,3 +52,10 @@ During the project a churn prediction model was created, with the aim of predict
 ## Modelling epileptic patient using TVB platform
 **Goal**:
 For this project we have used The Virtual Brain platform to simulate the brain of an epileptic brain, then we applied surgical resection on certain brain regions and have seen how the epileptic attacks reduced.
+
+## Motivating the running motivation
+**Goal**:
+Our goal is to understand how motivation changes under three different factors. 
+The first is the peaks of interest for general behavior, for instance related to generic weather conditions, and specific motivations such as New Year's resolutions in December/January, or training for marathons or 10k races. 
+The second is the balance between positive content (such as sharing achievements and satisfaction) and negative content (such as injuries and fatigue), since users will have higher motivation if the reward is known to be positive. 
+Finally, the third reason could be external events, such as the pandemic, lockdown, and extreme weather conditions.
